@@ -1,0 +1,30 @@
+{
+  "name": "react-custom-events",
+  "version": "0.0.0",
+  "description": "Custom Events for React",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "~2.4.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andreypopp/react-custom-events"
+  },
+  "keywords": [
+    "react",
+    "react-events"
+  ],
+  "author": "Andrey Popp <8mayday@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andreypopp/react-custom-events/issues"
+  },
+  "homepage": "https://github.com/andreypopp/react-custom-events"
+}
