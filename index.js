@@ -63,6 +63,7 @@ var CustomEventsListener = {
 var CustomEventsDispatcher = {
 
   dispatch: function(name, detail) {
+    var evName = 'on' + name.charAt(0).toUpperCase() + name.slice(1);
     dispatchEvent(this, evName, detail);
   }
 };
