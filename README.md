@@ -1,5 +1,7 @@
 # react-custom-events
 
+**Don't use this, this was an experiment and it doesn't work anymore with recent versions of React.**
+
 Plugin for [React][1] which implements CustomEvents with bubbling. I know it's a
 bad idea but who would judge you? Use with care.
 
